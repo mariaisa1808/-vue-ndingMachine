@@ -31,7 +31,7 @@ This project's goal is to design a vending machine using VueJs.
 
 To access the vending machine, clone the repository.
 
-git clone 
+git clone https://github.com/mariaisa1808/-vue-ndingMachine.git
 
 
 Insert your coins, choose products, receive change when applicable. 
